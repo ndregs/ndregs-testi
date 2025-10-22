@@ -56,8 +56,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/threejscc-portfolio.git
-cd threejscc-portfolio
+git clone https://github.com/ndregs/ndregs-testi.git
+cd ndregs-testi
 ```
 
 **Installation**
@@ -833,6 +833,6 @@ Here is the list of all the resources used in the project video:
 - [FBX Animations ZIP](https://drive.google.com/file/d/1yQhrRvEQFEwxbjG2qelv_T-gAatXJ3N1/view?usp=sharing)
 
 
-## <a name="assets">🔗 Assets</a>
+## <a name="assets">🔗 ERROR</a>
 
-Models and Assets used in the project can be found [here](https://drive.google.com/file/d/1UiJyotDmF2_tBC-GeLpRZuFY_gx5e7iX/view?usp=sharing)
+if error u can contact me on my instagram @ndre.gs
